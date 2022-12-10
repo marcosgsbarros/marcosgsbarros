@@ -6,7 +6,7 @@ Meu foco atualmente é me tornar um desenvolvedor FullStack, tudo que aprendi so
 <p>Acredito que a programação muda vidas. Estou sendo transformado nessa jornada.</p> 
 
 
- ## HardSkills
+ ## Hard Skills
 - ✔️ Python 3 (venv) ambientes virtuais 
 - ✔️ Github (versionamento)
 - ✔️ consumo de API
