@@ -23,8 +23,6 @@ Meu foco atualmente é me tornar um desenvolvedor FullStack, tudo que aprendi so
 </div>
 
 ## Vamos nos conectar?
-<div>
- 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
- [![Linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">)](https://www.linkedin.com/in/marcos-gabriel-76450a1ba)
+<div>   
+ [![Linkedin]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg")](https://www.linkedin.com/in/marcos-gabriel-76450a1ba)
 </div>
