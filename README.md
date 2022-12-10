@@ -1,16 +1,20 @@
-### Hi there 👋
+## Bem vindo!! 👨‍💻
+## Dedico este espaço para apresentação do meu portfólio. 
 
-<!--
-**marcosgsbarros/marcosgsbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Marcos Gabriel, tenho formação técnica em TI desde 2014, diante de vários caminhos que a área proporciona, eu escolhi ser desenvolvedor Python, acredito que seja uma linguagem que ganhou muito espaço, visto que tem muita versatilidade nas aplicações e agilidade por ter uma sintaxe simplificada.
 
-Here are some ideas to get you started:
+Meu foco atualmente é me tornar um desenvolvedor FullStack, tudo que aprendi sobre essa linguagem foi de forma autodidata. 
+<p>Acredito que a programação muda vidas. Estou sendo transformado nessa jornada.</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+ ## HardSkills
+- ✔️ Python 3 (venv) ambientes virtuais 
+- ✔️ Github (versionamento)
+- ✔️ consumo de API
+- ✔️ SQLServer
+- ✔️ MySQL
+- ✔️ Selenium
+- ✔️ Metodologia Scrum
+- 🎓 Atualmente estudando criação de sites com Flask
 -->
+
