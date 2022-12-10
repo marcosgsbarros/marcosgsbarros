@@ -10,7 +10,7 @@ Meu foco atualmente é me tornar um desenvolvedor FullStack, tudo que aprendi so
 - ✔️ Python 3 (venv) ambientes virtuais 
 - ✔️ Github (versionamento)
 - ✔️ consumo de API
-- ✔️ Banco de Dados(SQLServer, MySQL, SQLite)
+- ✔️ Banco de Dados (SQLServer, MySQL, SQLite)
 - ✔️ Selenium
 - ✔️ Metodologia Scrum
 - 🎓 Atualmente estudando criação de sites com Flask
