@@ -25,5 +25,5 @@ Meu foco atualmente é me tornar um desenvolvedor FullStack, tudo que aprendi so
 ## Vamos nos conectar?
 <div>   
  [![Linkedin]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg")](https://www.linkedin.com/in/marcos-gabriel-76450a1ba)
- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 </div>
