@@ -23,5 +23,5 @@ Meu foco atualmente é me tornar um desenvolvedor FullStack, tudo que aprendi so
 
 ## Vamos nos conectar?
 <div>
- <a href="https://www.linkedin.com/in/marcos-gabriel-76450a1ba"><img align="center" height="140" width="150"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+ <a href="https://www.linkedin.com/in/marcos-gabriel-76450a1ba" target="_blank"><img align="center" height="140" width="150"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 </div>
