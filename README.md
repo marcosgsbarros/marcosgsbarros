@@ -8,9 +8,9 @@ Meu foco atualmente é me tornar um desenvolvedor FullStack, tudo que aprendi so
 
  ## Hard Skills
 - ✔️ Python 3 (venv) ambientes virtuais 
-- ✔️ Noções de Github
+- ✔️ Github
 - ✔️ consumo de API
-- ✔️ Noções de Banco de Dados (SQLServer, MySQL, SQLite)
+- ✔️ Banco de Dados (SQLServer, MySQL, SQLite)
 - ✔️ Selenium
 - ✔️ Metodologia Scrum
 - 🎓 Atualmente estudando criação de sites com Flask
