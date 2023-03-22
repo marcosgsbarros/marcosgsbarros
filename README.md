@@ -13,7 +13,7 @@ Meu foco atualmente é me tornar um desenvolvedor FullStack, tudo que aprendi so
 - ✔️ Banco de Dados (SQLServer, MySQL, SQLite)
 - ✔️ Selenium
 - ✔️ Metodologia Scrum
-- 🎓 Atualmente estudando criação de sites com Flask
+- 🎓 Django framework...
 -->
 
 <div>
