@@ -15,11 +15,6 @@ O objetivo é me tornar um desenvolvedor FullStack, tudo que aprendi sobre essa 
 - 🎓 Django framework...
 -->
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosgsbarros&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgsbarros&layout=compact&theme=tokyonight"/>
-</div>
-
 ## Vamos nos conectar?
 <div>
  <a target="_blank" href="https://www.linkedin.com/in/marcos-gabriel-76450a1ba"><img align="center" height="140" width="150"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
