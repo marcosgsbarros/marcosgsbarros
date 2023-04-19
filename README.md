@@ -9,7 +9,7 @@ O objetivo é me tornar um desenvolvedor FullStack, tudo que aprendi sobre essa 
  ## Hard Skills
 - ✔️ Python 3 (venv) ambientes virtuais 
 - ✔️ Git e Github
-- ✔️ Banco de Dados (SQLServer, MySQL, SQLite, Postgree)
+- ✔️ Banco de Dados (MySQL, SQLite, Postgree)
 - ✔️ Selenium
 - ✔️ Metodologia Scrum
 - 🎓 Django framework...
