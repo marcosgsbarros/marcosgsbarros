@@ -11,7 +11,7 @@ O objetivo é me tornar um desenvolvedor FullStack, tudo que aprendi sobre essa 
 - ✔️ Git e Github
 - ✔️ Banco de Dados (MySQL, SQLite, Postgres)
 - ✔️ Selenium
-- ✔️ Metodologia Scrum
+- ✔️ Metodologia Ágeis
 - 🎓 Django framework...
 -->
 
