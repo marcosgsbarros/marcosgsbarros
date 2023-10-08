@@ -13,6 +13,7 @@ O objetivo é me tornar um desenvolvedor FullStack, tudo que aprendi sobre essa 
 - ✔️ Selenium
 - ✔️ Metodologias Ágeis
 - 🎓 Django framework...
+- 🎓 Java 
 -->
 
 ## Vamos nos conectar?
