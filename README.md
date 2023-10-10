@@ -1,6 +1,6 @@
 ## Bem vindo aos meus projetos! 👨‍💻
 
-Me chamo Marcos Gabriel, tenho formação técnica em TI desde 2014, diante de vários caminhos que a área proporciona, eu escolhi ser desenvolvedor Python. Acredito que seja uma linguagem que ganhou muito espaço, visto que tem muita versatilidade nas aplicações e agilidade por ter uma sintaxe simplificada.
+Me chamo Marcos Gabriel, tenho formação técnica em TI desde 2014, diante de vários caminhos que a área proporciona, escolhi ser desenvolvedor python e java.
 
 O objetivo é me tornar um desenvolvedor FullStack, tudo que aprendi sobre essa linguagem foi de forma autodidata. 
 <p>Acredito que a programação muda vidas. Estou sendo transformado nessa jornada.</p> 
