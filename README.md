@@ -18,7 +18,7 @@ Sou um entusiasta de tecnologia com formação em Técnico de Informática desde
 
 Estou constantemente em busca de novos desafios e oportunidades para aplicar meu conhecimento em projetos interessantes. Sou um entusiasta da resolução de problemas e estou sempre disposto a aprender e evoluir.
 
-Fique à vontade para explorar meus repositórios e entrar em contato. Vamos construir coisas incríveis juntos! 😄
+Fique à vontade para explorar meus repositórios e entrar em contato. Vamos construir coisas incríveis juntos? 😄
 
 ## Acredito que a tecnologia muda vidas. Estou sendo transformado nessa jornada. 
 
