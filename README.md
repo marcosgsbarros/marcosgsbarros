@@ -18,18 +18,8 @@ Sou um entusiasta de tecnologia com formação em Técnico de Informática desde
 
 Estou constantemente em busca de novos desafios e oportunidades para aplicar meu conhecimento em projetos interessantes. Sou um entusiasta da resolução de problemas e estou sempre disposto a aprender e evoluir.
 
-<p>Acredito que a tecnologia muda vidas. Estou sendo transformado nessa jornada.</p> 
+##Acredito que a tecnologia muda vidas. Estou sendo transformado nessa jornada. 
 
-
- ## Hard Skills
-- ✔️ Python 3 (venv) ambientes virtuais 
-- ✔️ Git e Github
-- ✔️ Banco de Dados (MySQL, SQLite, Postgres)
-- ✔️ Selenium
-- ✔️ Metodologias Ágeis
-- 🎓 Django framework...
-- 🎓 Java 
--->
 
 ## Vamos nos conectar?
 <div>
