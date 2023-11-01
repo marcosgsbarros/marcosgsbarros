@@ -24,7 +24,5 @@ Estou constantemente em busca de novos desafios e oportunidades para aplicar meu
 ## Vamos nos conectar?
 <div>
  <a target="_blank" href="https://www.linkedin.com/in/marcos-gabriel-76450a1ba"><img align="center" height="140" width="150"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
-</div>
-<div>
- <a target="_blank" href="marcosgsbarros@gmail.com"><img width="96" height="96" src="https://img.icons8.com/fluency/96/gmail.png" alt="gmail"/></a>
+  <a target="_blank" href="marcosgsbarros@gmail.com"><img width="96" height="96" src="https://img.icons8.com/fluency/96/gmail.png" alt="gmail"/></a>
 </div>
