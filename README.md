@@ -20,7 +20,7 @@ Estou constantemente em busca de novos desafios e oportunidades para aplicar meu
 
 Fique à vontade para explorar meus repositórios e entrar em contato. Vamos construir coisas incríveis juntos! 😄
 
-##Acredito que a tecnologia muda vidas. Estou sendo transformado nessa jornada. 
+## Acredito que a tecnologia muda vidas. Estou sendo transformado nessa jornada. 
 
 
 ## Vamos nos conectar?
