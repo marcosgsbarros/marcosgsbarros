@@ -12,7 +12,6 @@ Sou um entusiasta de tecnologia com formação em Técnico de Informática desde
 
 - **Banco de Dados:** Tenho conhecimento em gerenciamento de banco de dados, o que me permite projetar, criar e manter bancos de dados.
 
-- **Power BI:** Sei criar visualizações de dados e relatórios interativos com o Power BI.
 
 ### Meu Objetivo 🚀
 
