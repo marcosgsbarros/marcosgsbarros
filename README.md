@@ -2,7 +2,7 @@
 
 ## Olá, sou Marcos! 👋
 
-Sou um entusiasta de tecnologia com formação em Técnico de Informática desde 2014 e atualmente cursando Análise e Desenvolvimento de Sistemas. Minha paixão por programação e tecnologia me levou a desenvolver diversas habilidades.
+Sou um entusiasta de tecnologia com formação em Técnico de Informática desde 2014 e formadp em Análise e Desenvolvimento de Sistemas. Minha paixão por programação e tecnologia me levou a desenvolver diversas habilidades.
 
 ### Minhas Habilidades 💼
 
